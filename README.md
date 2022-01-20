@@ -1,5 +1,5 @@
 
-- 🔭 I am currently looking for a job.
+- 🔭 Actualmente estoy buscando trabajo en la parte del Frontend.
 - 🌱 I am currently learning the React technology (Hooks, Redux, Axios).
 - 👯 I seek to collaborate on projects where the team is united and there is a very good work environment.
 - 🤔 I'm looking for help with my last project made with React from the front and Mongo from the backend.
